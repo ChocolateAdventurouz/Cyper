@@ -1,4 +1,5 @@
-# Cyper's Update Patch is a small compressed file (.cupkg) that contains the latest changes on the base app and componets. 
+# Cyper's Update Patch
+Cyper's Update Patch is a small compressed file (.cupkg) that contains the latest changes on the base app and componets. 
 It is useful for users who don't like downloading big setup files or don't want to overwrite the current installation. Cool, right?
 
 Cyper.exe is associcated with this file type during installation.
